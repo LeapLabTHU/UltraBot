@@ -1,6 +1,6 @@
 # Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System
 
-<p align="center"> <img src='docs/intro.png' align="center" height="250px"> </p>
+<p align="center"> <img src='docs/intro.png' align="center" height="550px"> </p>
 
 This repository is the official Pytorch implementation for paper **Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System**. (Primary Contact: [Haojun Jiang](https://github.com/jianghaojun))
 
