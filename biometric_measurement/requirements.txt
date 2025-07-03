@@ -1,0 +1,9 @@
+easydict==1.13
+matplotlib==3.10.1
+numpy==1.24.3
+opencv_python==4.11.0.86
+pandas==2.2.3
+Pillow==11.1.0
+torch==2.0.0+cu118
+torchvision==0.15.1+cu118
+tqdm==4.67.1

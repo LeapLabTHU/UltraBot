@@ -1,0 +1,10 @@
+MedPy==0.5.2
+numpy==1.24.3
+opencv_python==4.11.0.86
+Pillow==11.1.0
+pydensecrf==1.0rc3
+scikit_learn==1.6.1
+skimage==0.0
+torch==2.0.0+cu118
+torchmetrics==1.6.3
+torchvision==0.15.1+cu118
