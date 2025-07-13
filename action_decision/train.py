@@ -158,7 +158,7 @@ class CustomDataset(Dataset):
         image_path = self.metadata.iloc[idx].path
         img = Image.open(image_path)
         img = np.asarray(img.convert('RGB')).transpose(2, 0, 1)
-        img = torch.from_numpy(img).float()
+        img = torch.from_numpy(img)
         ob = self.transform(img)
         action_key = torch.tensor(
             action_key2action_idx[self.metadata['action_key'][idx]], dtype=torch.long)
