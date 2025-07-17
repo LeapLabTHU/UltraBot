@@ -17,7 +17,7 @@ Overall, we show that large-scale deep learning offers a promising pathway towar
 
 For more demos, please refer to Supplementary Videos 1-3 in the article.
 
-<p align="center"> <img src='docs/demo.gif' align="center" height="400px"> </p>
+<p align="center"> <img src='docs/demo.gif' align="center" height="800px"> </p>
 
 
 ## Usage
