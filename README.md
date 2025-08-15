@@ -2,7 +2,13 @@
 
 <p align="center"> <img src='docs/intro.png' align="center" height="750px"> </p>
 
-This repository is the official Pytorch implementation for Nature Communications paper **Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System**. (Primary Contact: [Haojun Jiang](https://github.com/jianghaojun))
+This repository is the official Pytorch implementation for Carotid UltraBot.
+
+> **Title**:&emsp;&emsp;**Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System**
+> **Authors**:&nbsp;&nbsp;Haojun Jiang, Andrew Zhao, Qian Yang, Xiangjie Yan, Teng Wang, Yulin Wang, Ning Jia, Jiangshan Wang, Guokun Wu, Yang Yue, Shaqi Luo, Huanqian Wang, Ling Ren, Siming Chen, Pan Liu, Guocai Yao, Wenming Yang, Shiji Song, Xiang Li, Kunlun He, Gao Huang
+> **Institute**: Tsinghua University, Chinese PLA General Hospital, Air Force Medical Center, Beijing Academy of Artificial Intelligence, and Tsinghua Shenzhen International Graduate School  
+> **Publish**:&nbsp;&nbsp;&nbsp; **Nature Communications 2025 (IF=15.7)** [Paper Link][Poster Link]  
+> **Contact**:&nbsp;&nbsp; jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
 
 ## News
 
