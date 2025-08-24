@@ -4,7 +4,7 @@
 
 This repository is the official Pytorch implementation for Carotid UltraBot.
 
-> **Title**:&emsp;&emsp;**Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System**
+> **Title**:&emsp;&emsp;**Towards Expert-level Autonomous Carotid Ultrasonography with Large-scale Learning-based Robotic System**  
 > **Authors**:&nbsp;&nbsp;Haojun Jiang<sup>🏀🌟</sup>, Andrew Zhao<sup>🌟</sup>, Qian Yang<sup>🌟</sup>, Xiangjie Yan, Teng Wang, Yulin Wang, Ning Jia, Jiangshan Wang, Guokun Wu, Yang Yue, Shaqi Luo, Huanqian Wang, Ling Ren, Siming Chen, Pan Liu, Guocai Yao, Wenming Yang, Shiji Song, Xiang Li, Kunlun He<sup>👑</sup>, Gao Huang<sup>👑</sup>   (<sup>🌟</sup> Equal Contribution, <sup>🏀</sup> Project Lead, <sup>👑</sup> Corresponding Author)  
 > **Institute**: 1 Department of Automation, Tsinghua University  
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 Air Force Medical Center  
