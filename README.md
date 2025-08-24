@@ -17,7 +17,7 @@ This repository is the official Pytorch implementation for Carotid UltraBot.
 > **Contact**:&nbsp;&nbsp; jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
 
 <h3 align="center">
-Links: <a href="https://github.com/LeapLabTHU/UltraBot">Paper</a> | <a href="https://github.com/LeapLabTHU/UltraBot">Video</a>
+Links: <a href="https://www.nature.com/articles/s41467-025-62865-w">Paper</a> | <a href="https://www.nature.com/articles/s41467-025-62865-w#additional-information:~:text=First%20Demonstration%20of,with%20Plaque%20Video">Video</a>
 </h3>
 
 ## News
