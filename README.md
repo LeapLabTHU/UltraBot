@@ -58,8 +58,11 @@ If you find our project useful in your research, please consider citing:
 ```
 @article{jiang2025towards,
   title={Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system},
-  author={Jiang, Haojun and Zhao, Andrew and Yang, Qian and Yan, Xiangjie and Wang, Teng and Wang, Yulin and Jia, Ning and Wang, Jiangshan and Wu, Guokun and Yue, Yang and Luo, Shaqi and Wang, Huanqian and Ren, Ling and Chen, Siming and Liu, Pan and Yao, Guocai and Yang, Wenming and Song, Shiji and Li, Xiang and He, Kunlun and Huang, Gao},
+  author={Jiang, Haojun and Zhao, Andrew and Yang, Qian and Yan, Xiangjie and Wang, Teng and Wang, Yulin and Jia, Ning and Wang, Jiangshan and Wu, Guokun and Yue, Yang and others},
   journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={7893},
   year={2025},
   publisher={Nature Publishing Group UK London}
 }
