@@ -13,7 +13,7 @@ This repository is the official Pytorch implementation for Carotid UltraBot.
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 Chinese PLA General Hospital  
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6 Beijing National Research Center for Information Science and Technology, Tsinghua University  
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 Beijing LeadVision Ltd  
-> **Publish**:&nbsp;&nbsp;&nbsp; **Nature Communications 2025 (IF=15.7)**  
+> **Publish**:&nbsp;&nbsp;&nbsp; **Nature Communications 2025 (IF=17.2)**  
 > **Contact**:&nbsp;&nbsp; jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
 
 <h3 align="center">
