@@ -21,6 +21,7 @@ Links: <a href="https://www.nature.com/articles/s41467-025-62865-w">Paper</a> | 
 </h3>
 
 ## News
+- Update on 2025/09/22: Haojun Jiang will present this as a poster at the MICCAI ASMUS on September 27th.  
 - Update on 2025/08/23: Finally, the paper is online now! 🎉  
 - Update on 2025/07/30: Accepted by Nature Communications and in production. STAR ⭐ this repo to get notified upon publication.
 - Update on 2025/07/03: Release the code.
