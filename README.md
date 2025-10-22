@@ -17,10 +17,11 @@ This repository is the official Pytorch implementation for Carotid UltraBot.
 > **Contact**:&nbsp;&nbsp; jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
 
 <h3 align="center">
-Links: <a href="https://www.nature.com/articles/s41467-025-62865-w">Paper</a> | <a href="https://www.nature.com/articles/s41467-025-62865-w#additional-information:~:text=First%20Demonstration%20of,with%20Plaque%20Video">Demo</a> | <a href="https://www.tsinghua.edu.cn/info/1175/121057.htm">清华新闻Tsinghua News</a> | <a href="https://mp.weixin.qq.com/s/YJqVwwHct0YfVJLwJC9GwA">清华自动化新闻Tsinghua DA News</a> | <a href="https://mp.weixin.qq.com/s/WqzrJ_DXyhiaQs5TVlaDEQ">医工学人报道</a> | <a href="https://mp.weixin.qq.com/s/SEsCNWsoPUPPZqOfBRf2QQ">CVer报道</a>
+Links: <a href="https://www.nature.com/articles/s41467-025-62865-w">Paper</a> | <a href="https://www.nature.com/articles/s41467-025-62865-w#additional-information:~:text=First%20Demonstration%20of,with%20Plaque%20Video">Demo</a> |  <a href="https://www.tsinghua.edu.cn/info/1175/121057.htm"> NatureBE Research Highlights</a>  | <a href="https://www.tsinghua.edu.cn/info/1175/121057.htm">清华新闻Tsinghua News</a> | <a href="https://mp.weixin.qq.com/s/YJqVwwHct0YfVJLwJC9GwA">清华自动化新闻Tsinghua DA News</a> | <a href="https://mp.weixin.qq.com/s/WqzrJ_DXyhiaQs5TVlaDEQ">医工学人报道</a> | <a href="https://mp.weixin.qq.com/s/SEsCNWsoPUPPZqOfBRf2QQ">CVer报道</a>
 </h3>
 
 ## News
+- Update on 2025/10/22: Our work highlighted by the **Chief Editor** of [Nature Biomedical Engineering](https://www.nature.com/articles/s41551-025-01546-x).
 - Update on 2025/09/22: Haojun Jiang will present this as a poster at the MICCAI ASMUS on September 27th.  
 - Update on 2025/08/23: Finally, the paper is online now! 🎉  
 - Update on 2025/07/30: Accepted by Nature Communications and in production. STAR ⭐ this repo to get notified upon publication.
