@@ -13,7 +13,7 @@ This repository is the official Pytorch implementation for Carotid UltraBot.
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 Chinese PLA General Hospital  
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6 Beijing National Research Center for Information Science and Technology, Tsinghua University  
 > &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7 Beijing LeadVision Ltd  
-> **Publish**:&nbsp;&nbsp;&nbsp; **Nature Communications 2025 (IF=17.2)**  
+> **Publish**:&nbsp;&nbsp;&nbsp; **Nature Communications 2025 (5-year IF=17.2)**  
 > **Contact**:&nbsp;&nbsp; jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
 
 <h3 align="center">
@@ -21,7 +21,8 @@ Links: <a href="https://www.nature.com/articles/s41467-025-62865-w">Paper</a> | 
 </h3>
 
 ## News
-- Update on 2025/10/22: Our work highlighted by the **Chief Editor** of [Nature Biomedical Engineering](https://www.nature.com/articles/s41551-025-01546-x).
+- Update on 2025/10/17: [UltraBot](https://www.nature.com/articles/s41551-025-01546-x) highlighted by the **Chief Editor** of **Nature Biomedical Engineering** in the [October issue](https://drive.google.com/file/d/1-QUk2mCtg2XD9cWI4EuDu3L0BNR141-V/view?usp=sharing)—the ONLY one of four featured studies to be highlighted by the editor-in-chief, alongside a [_Science_](https://www.nature.com/articles/s41551-025-01540-3) and two [_Nature Medicine_](https://www.nature.com/articles/s41551-025-01539-w) articles.
+- Update on 2025/10/15: Haojun Jiang is invited by [Prof. Rajpurkar](https://dbmi.hms.harvard.edu/people/pranav-rajpurkar) from Harvard to present on [Robotic Ultrasonography](https://www.youtube.com/@harvard-medicalai-rajpurkarlab).
 - Update on 2025/09/22: Haojun Jiang will present this as a poster at the MICCAI ASMUS on September 27th.  
 - Update on 2025/08/23: Finally, the paper is online now! 🎉  
 - Update on 2025/07/30: Accepted by Nature Communications and in production. STAR ⭐ this repo to get notified upon publication.
