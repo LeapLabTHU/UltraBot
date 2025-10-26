@@ -38,6 +38,7 @@ CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port 29507 --max_r
 ## Inference
 - Before inference, please make sure to replace the placeholder paths in the command with your actual file paths.
 - Download the best model weights 'best_mea_model.pth.tar' from [this link](https://drive.google.com/file/d/1lkPsWRsRhJFgDd83OLREQiZ9eZ93V9qB/view?usp=sharing) and place it in an appropriate directory.
+- **Please ensure that for each pixel in the input image, the three channel values are identical**.
 
 
 ```bash
