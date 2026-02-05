@@ -12,7 +12,7 @@ This repository provides the code for the **biometric measurement** part of the 
 ## Preparation
 
 ```bash
-conda create --name mea python=3.9
+conda create --name mea python=3.10
 conda activate mea
 pip install -r requirements.txt
 ```
